@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   norman dorst norman@hotmail.com @yes
 
 # THANKS
 
