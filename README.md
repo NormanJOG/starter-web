@@ -16,7 +16,7 @@ Sample website with plenty of files for demos
 
 ## how to contribute
 
-regregergegrerggrrt
+Code README.md en insert info about the project
 
 ### Coptyright
-Git.Training 
+@Git.Training 
