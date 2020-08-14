@@ -3,11 +3,11 @@
 
 # TEAM
 
-   Norman Dorst "norman.dorst@joggroup.nl" 
+   Norman Dorst "norman.dorst@joggroup.nl" @normandorst
 
 # THANKS
 
-    <name>
+    BOEM!
 
 # TECHNOLOGY COLOPHON
 
